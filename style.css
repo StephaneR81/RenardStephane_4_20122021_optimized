@@ -45,6 +45,11 @@ body {
 
 }
 
+.pictureToText3{
+    font-family: helvetica;
+    font-size: 22px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
