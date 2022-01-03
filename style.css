@@ -7,16 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-a:focus{
-    border:2px solid #000;
+a:focus {
+    border: 2px solid #000;
 }
 
-button:focus{
-    border:2px solid #000;
+button:focus {
+    border: 2px solid #000;
 }
 
-input:focus{
-    border:2px solid #000;
+input:focus {
+    border: 2px solid #000;
 }
 
 .text-center.optimized {
@@ -58,7 +58,7 @@ input:focus{
 
 }
 
-.pictureToText3{
+.pictureToText3 {
     font-family: helvetica;
     font-size: 22px;
 }
